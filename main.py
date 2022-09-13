@@ -1,3 +1,4 @@
+#Snake Game based on 100 days of Code bootcamp. Credits to Dr Anegal Yu
 from turtle import Screen
 from snake import Snake
 from food import Food
